@@ -1,0 +1,15 @@
+p {
+  text-align-last: left;
+  font-size: 18px;
+}
+
+.about-section {
+  display: flex;
+  flex-flow: column;
+  height: 85vh;
+  justify-content: center;
+}
+
+.about-section a:hover {
+  opacity: .5;
+}

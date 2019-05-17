@@ -1,0 +1,11 @@
+p {
+  text-align-last: left;
+  font-size: 18px;
+}
+
+.landing-section {
+  display: flex;
+  flex-flow: column;
+  height: 85vh;
+  justify-content: center;
+}
